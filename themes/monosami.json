@@ -249,12 +249,12 @@
             "font_weight": null
           },
           "string.escape": {
-            "color": "#00d894",
+            "color": "#d4d4d4",
             "font_style": null,
             "font_weight": null
           },
           "string.regex": {
-            "color": "#00d894",
+            "color": "#d4d4d4",
             "font_style": null,
             "font_weight": null
           },
